@@ -102,34 +102,36 @@ void loop()
 ```
 2. Instalar la libreria de **DHT sensor library for ESPx** como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/Libreria%20DHT.png?raw=true)
+![](https://github.com/ser2784/Practica-DHT22-Y-ULTRASONICO/blob/main/Practica%20DHT22%20Y%20ULTRASONICO%20LIBRERIA.png)
 
-3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
+3. Hacer la conexion de **DHT22 Y HC-SR84** con la **ESP32** como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m.%20(2).png?raw=true)
+![](https://github.com/ser2784/Practica-DHT22-Y-ULTRASONICO/blob/main/Practica%20DHT22%20Y%20ULTRASONICO%20DIAGRAMA.png)
 
 ### Instrucciónes de operación
 
 1. Iniciar simulador.
 2. Visualizar los datos en el monitor serial.
-3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT11** 
+3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT22**
+4. cColocas la distancia a medir en el **HC-SR84**
+5. Posterior en el **LCD** muetras los datos 
 
 ## Resultados
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m..png?raw=true)
-
+![](https://github.com/ser2784/Practica-DHT22-Y-ULTRASONICO/blob/main/Practica%20DHT22%20Y%20ULTRASONICO%20NOMBRE.png)
+![](https://github.com/ser2784/Practica-DHT22-Y-ULTRASONICO/blob/main/Practica%20DHT22%20Y%20ULTRASONICO%20TEMPERATURA.png)
 
 
 
 ## Evidencias
 
-[Video de Youtube](https://https://wokwi.com/)
+[Video de Youtube](por el momento no contamos con el video )
 
 
 # Créditos
 
-Desarrollado por Ing. Diego Jasso Miranda
+Desarrollado por Ing. Sergio Rivera
 
-- [GitHub](https://github.com/DiegoJm10)
+- [GitHub](https://github.com/ser2784)
